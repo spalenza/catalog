@@ -1,0 +1,80 @@
+[
+  {
+    "id": "RDSTATION-TSHIRT1",
+    "title": "RD Station T-Shirt 1 Clássica",
+    "description": "Essa camiseta tem uma logo da RD Station na frente.",
+    "link": "https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1",
+    "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
+    "categories": ["aparencia", "t-shirt", "novo", "logomarca"],
+    "status": "published",
+    "variants": [
+      {
+        "id": "RDSTATION-TSHIRT1-VARIANT1",
+        "title": "Cor: Vermelha",
+        "description": "Camiseta vermelha com uma logo da RD Station na frente.",
+        "link": "https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1",
+        "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
+        "price": 10.99,
+        "sku": "SKU-TSHIRT1-RED",
+        "inventory_quantity": 15
+      },
+      {
+        "id": "RDSTATION-TSHIRT1-VARIANT2",
+        "title": "Cor: Azul",
+        "description": "Camiseta azul com uma logo da RD Station na frente.",
+        "link": "https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1",
+        "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg",
+        "price": 10.99,
+        "sku": "SKU-TSHIRT1-BLUE",
+        "inventory_quantity": 10
+      }
+    ]
+  },
+  {
+    "id": "RDSTATION-TSHIRT2",
+    "title": "RD Station T-Shirt 2 Clássica",
+    "description": "Essa camiseta tem uma logo da RD Station na frente.",
+    "link": "https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-2",
+    "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Capturadetela2024-05-09180122.png",
+    "categories": ["aparencia", "t-shirt", "novo", "logomarca"],
+    "status": "published",
+    "variants": [
+      {
+        "id": "RDSTATION-TSHIRT2-VARIANT1",
+        "title": "Cor: Vermelha",
+        "description": "Camiseta vermelha com uma logo da RD Station na frente.",
+        "link": "https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-2",
+        "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Capturadetela2024-05-09180122.png",
+        "price": 12.59,
+        "compare_at_price": 15.59,
+        "sku": "SKU-TSHIRT2",
+        "inventory_quantity": 20
+      }
+    ]
+  },
+  {
+    "id": "RDSTATION-TSHIRT3",
+    "title": "RD Station T-Shirt 3 Clássica",
+    "description": "Essa camiseta tem uma logo da RD Station na frente.",
+    "link": "https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-3",
+    "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg",
+    "price": 15.59,
+    "sku": "SKU-TSHIRT3",
+    "categories": ["aparencia", "t-shirt", "novo", "logomarca"],
+    "inventory_quantity": 5,
+    "status": "unpublished"
+  },
+  {
+    "id": "RDSTATION-TSHIRT4",
+    "title": "RD Station T-Shirt 4 Clássica",
+    "description": "Essa camiseta tem uma logo da RD Station na frente.",
+    "link": "https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-4",
+    "image_link": "https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg",
+    "price": 15.59,
+    "compare_at_price": 18.59,
+    "sku": "SKU-TSHIRT4",
+    "categories": ["aparencia", "t-shirt", "logomarca"],
+    "inventory_quantity": 1,
+    "status": "published"
+  }
+]
